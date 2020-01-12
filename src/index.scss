@@ -1,0 +1,44 @@
+body {
+  background-color: #F5F5F5;
+  margin: 0;
+}
+
+.wrap {
+  margin: 10px;
+}
+
+.form {
+  display: flex;
+  flex-flow: column;
+  width: 250px;
+}
+
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.text {
+  font-family: Roboto, sans-serif;
+}
+
+.text-success {
+  color: #00c400;
+}
+
+.text-danger {
+  color: #f61c1c;
+}
+
+.text-info {
+  color: #3344c5;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.MuiList-padding {
+  padding: 0;
+}
